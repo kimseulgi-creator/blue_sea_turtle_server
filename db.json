@@ -1,9 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "post": [
+    {
+      "id": "GiDsjQcAn",
+      "password": "1234",
+      "contents": "뭐 뭐이자식아"
+    },
+    {
+      "id": "U7lV_ivq5",
+      "password": "1234",
+      "contents": "test1"
+    },
+    {
+      "id": "TvwQxWGil",
+      "password": "4567",
+      "contents": "test2"
+    },
+    {
+      "id": "9wZzSa2Ry",
+      "password": "1123",
+      "contents": "test3"
+    },
+    {
+      "id": "_zZU0IcS1",
+      "password": "1123",
+      "contents": "test4"
+    },
+    {
+      "id": "_mDorOGGs",
+      "password": "1234",
+      "contents": "test5"
+    },
+    {
+      "id": "-jYX6cAvk",
+      "password": "1234",
+      "contents": "test6"
+    },
+    {
+      "id": "ICoMi0pR7",
+      "password": "4567",
+      "contents": "awserfawef"
+    },
+    {
+      "id": "4ddVDt3gJ",
+      "password": "1234",
+      "contents": "해양동물 파이팅!!!"
+    },
+    {
+      "id": "v2N3nd4yO",
+      "password": "1234",
+      "contents": "수달아 힘을 내!!"
+    }
+  ]
 }
